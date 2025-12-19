@@ -78,14 +78,14 @@ Key insights:
 
 <img width="1648" height="781" alt="image" src="https://github.com/user-attachments/assets/ff987610-a251-4881-b113-865dea598f9e" />
 
-This dashboard evaluates what actually drives accidents—behavioral, environmental, and policy factors.
+This dashboard evaluates what actually drives accidents: behavioral, environmental, and policy factors.
 Key insights:
 - The strongest relationship we see is between traffic volume and accidents. When volume drops, accidents consistently drop.
 - This is clearly visible during COVID-19 lockdowns and again after the introduction of congestion pricing, where reduced traffic coincides with sustained accident reduction.
 - In contrast, weather variables like snowfall and precipitation show weak correlation with accident counts.” That can be due to:
    * behavioral adaptation: NYC residents tend to reduce unessetial travel, work from home, or shift to public transportation during severe weather. 
    * Or other reason could be that advance weather warnings, city preparedness (salting, plowing), and cautious driving behavior may mitigate the impact of harsh weather on crash frequency. 
-- This challenges common assumptions that weather is a primary driver—data shows traffic exposure matters far more.
+- This challenges common assumptions that weather is a primary driver-data shows traffic exposure matters far more.
 - By marking key events directly on the timeline, the dashboard makes causality easier to interpret rather than just correlation.
 
 # Dashboard 4: How NYC Boroughs Compare: Rank Shifts & Geographic Accident Density
@@ -98,7 +98,7 @@ Key insights:
 - Brooklyn and Queens consistently rank highest, reflecting population density and roadway usage.
 - Manhattan shows notable improvement over time, likely influenced by transit usage, and pedestrian-friendly design.
 - The geospatial map complements the ranking by showing spatial concentration, helping identify hotspots
-- This dashboard supports targeted, borough-specific interventions. Safety solutions shouldn’t be one-size-fits-all—each borough faces different structural challenges.
+- This dashboard supports targeted, borough-specific interventions. Safety solutions shouldn’t be one-size-fits-all, each borough faces different structural challenges.
 - A year-wise filter enables deeper drill-down to analyze accident patterns across boroughs and identify major variations in borough rankings. All KPIs update dynamically based on the selected year.
 
 ## Conclusion:
