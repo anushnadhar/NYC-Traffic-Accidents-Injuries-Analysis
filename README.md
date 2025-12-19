@@ -26,6 +26,8 @@ Granularity: Monthly aggregated data
 - Python (Pandas, Statsmodels) – time-series analysis and seasonal adjustment (STL decomposition)
 - Tableau – interactive dashboards and visual storytelling
 
+## [**View on Tableau Public**](https://public.tableau.com/views/NYCtrafficaccidentsdashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Data Processing & Methodology
 
 1. Data Cleaning & Transformation
